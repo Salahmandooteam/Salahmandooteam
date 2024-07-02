@@ -7,6 +7,4 @@
 - 
 
 <!---
-Salahmandooteam/Salahmandooteam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Salahmandooteam we are a team of programmers creating development alot of app, website and also help in managing them feel free to get in touch with us 
